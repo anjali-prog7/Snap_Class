@@ -38,3 +38,8 @@ Thumbs.db
 *.db
 *.sqlite
 *.sqlite3
+
+venv/
+venv312/
+.env
+.streamlit/secrets.toml
